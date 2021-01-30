@@ -100,6 +100,7 @@ nav ul li a:hover, a.active{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 10px;
+    
 }
 .btn-style{
     display: block;
@@ -117,12 +118,12 @@ nav ul li a:hover, a.active{
 }
 .button{
     border: none;
-    color: black;
+     
     padding: 0px 18px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 18px;
     border-radius: 10px;
     margin: 19px 5px 3px 3px;
 }
